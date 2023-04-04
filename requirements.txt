@@ -1,0 +1,4 @@
+Django
+gunicorn
+setuptools==67.6.1
+whitenoise
